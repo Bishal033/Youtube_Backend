@@ -1,0 +1,6 @@
+/.nscode
+/node_modules
+./dist
+
+*env
+.env
